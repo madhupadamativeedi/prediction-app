@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/prediction-app/static/css/main.becd870d.css",
+    "main.js": "/prediction-app/static/js/main.b75c0dbf.js",
+    "index.html": "/prediction-app/index.html",
+    "main.becd870d.css.map": "/prediction-app/static/css/main.becd870d.css.map",
+    "main.b75c0dbf.js.map": "/prediction-app/static/js/main.b75c0dbf.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.becd870d.css",
+    "static/js/main.b75c0dbf.js"
+  ]
+}
